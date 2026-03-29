@@ -2,7 +2,7 @@
   <img src="https://github.com/Mzroo/Mzroo/blob/e7072a02f88971ee35651679b12dba050e44d62c/background.gif" width="100%" style="max-width: 800px; border-radius: 12px;" alt="Developer banner"/>
   <br/>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=Halo,+Saya+Bara+Kusuma!+👋;Multi-Language+Fullstack+Developer;Building+Scalable+Digital+Solutions;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&pause=1000&color=A97CF8&center=true&vCenter=true&width=700&lines=Halo,+Saya+M+Adriansyah!+👋;Multi-Language+Fullstack+Developer;Building+Scalable+Digital+Solutions;" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
