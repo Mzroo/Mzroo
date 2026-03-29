@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Adriansyah&fontSize=35&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Adriansyah</h2>
+<h2 align="center">Hi 👋, I'm M Adriansyah</h2>
 <p align="center">Web Developer (Laravel)</p>
 
 ---
@@ -36,7 +36,7 @@
 
 ## ⏱️ Coding Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_WAKATIME" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mzroo_WAKATIME" />
 </p>
 
 ---
