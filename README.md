@@ -13,11 +13,13 @@
 
 ### 💻 Core Philosophy
 
-Sebagai developer, saya tidak membatasi diri pada satu stack tertentu. Fokus utama saya adalah membangun aplikasi yang stabil, aman, dan berperforma tinggi dengan memilih alat yang paling tepat untuk setiap masalah. Saya sangat menghargai struktur kode yang bersih serta arsitektur yang mudah dikembangkan di masa depan.
+Sebagai developer, saya percaya bahwa proses belajar dan konsistensi jauh lebih penting daripada sekadar hasil instan. Saya fokus membangun aplikasi yang sederhana, fungsional, dan terus berkembang seiring meningkatnya kemampuan saya.
 
-- **Stack Focus:** High-performance Fullstack Development (Web & Mobile).
-- **Engineering Values:** Clean Code, Security, & Scalability.
-- **Design Intent:** Minimalism, Performance-Driven, & User-Centric.
+Saya lebih mengutamakan pemahaman logika, struktur kode yang rapi, serta solusi yang efisien daripada sekadar mengikuti tren teknologi. Bagi saya, setiap project adalah langkah untuk menjadi developer yang lebih baik.
+
+- **Focus:** Practical Web Development (Laravel & JavaScript).
+- **Values:** Consistency, Simplicity, & Problem Solving.
+- **Approach:** Learn | Build | Improve | Repeat.
 
 ---
 
@@ -49,13 +51,13 @@ Sebagai developer, saya tidak membatasi diri pada satu stack tertentu. Fokus uta
 ### 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BekaGensss&theme=tokyonight&bg_color=0D1117&color=A97CF8&line=A97CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Aktivitas GitHub Bara" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mzroo&theme=tokyonight&bg_color=0D1117&color=A97CF8&line=A97CF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Aktivitas GitHub Adriansyah" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=BekaGensss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Mzroo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
@@ -63,10 +65,10 @@ Sebagai developer, saya tidak membatasi diri pada satu stack tertentu. Fokus uta
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://id.linkedin.com/in/bara-kusuma-707067294" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:stenkrama@gmail.com">
+  <a href="mailto:m.adriansyah0411@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -74,5 +76,5 @@ Sebagai developer, saya tidak membatasi diri pada satu stack tertentu. Fokus uta
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BekaGensss&color=A97CF8&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Mzroo&color=A97CF8&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
 </div>
